@@ -9,7 +9,7 @@ automation systems.
 
 ## 🎥 Project Demo Video
 Watch the project demo here:  
-https://drive.google.com/file/d/1EW7xJTUMz_bCr1KYOlIKHqx-p7xZKBbf/view?usp=drivesdk
+https://drive.google.com/file/d/1O8_elA9ORbcsnsinTGxBJirvXt2sHO0b/view?usp=drivesdk
 
 ## How It Works
 1. Webcam captures live video
